@@ -1,0 +1,19 @@
+Clase Juego:
+-Tablero
+-palabras []
+-Fichero
+
+funciones
+Generar menu
+Jugar
+Comprobaciones
+
+
+
+Clase Tablero (dificultad)
+int tamaño
+
+
+Clase Fichero
+tipo fichero
+
